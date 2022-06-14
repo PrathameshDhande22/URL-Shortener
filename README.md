@@ -26,7 +26,7 @@ For Using the Adfly , cutlly and bitly it requires the API key which can be gene
 
 Clipboard Module Simple copy the Shortened URL when user click on the Copy Button.
 
-## Below Are the Screenshots of the GUI
+## Screenshots of the GUI
 <img src="https://user-images.githubusercontent.com/87264935/173214669-99b72d19-4b74-427c-b969-19e1ad95b369.png" height="500" Title="URL App" alt="Looks of the Notepad">
 <br />
 
